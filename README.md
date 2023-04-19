@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefa314159&label=Profile%20views&color=0e75b6&style=flat" alt="sefa314159" /> </p>
 
-- 🔭 I’m currently working on **Image Classification with Transformers**
-
 - 🌱 I’m currently learning **Reinforcement Learning**
 
 - 💬 Ask me about **Python, Deep Learning, Machine Learning**
