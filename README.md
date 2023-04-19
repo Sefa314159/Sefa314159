@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Image Classification with Transformers**
 
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on **Huggingface**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 💬 Ask me about **Python, Deep Learning, Machine Learning**
 
 - 📫 How to reach me **sefa.isci@proton.me**
 
-- ⚡ Fun fact **I have 2 budgies :)**
+- ⚡ Fun fact **I have 4 budgies :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
