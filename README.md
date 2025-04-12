@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefa314159&label=Profile%20views&color=0e75b6&style=flat" alt="sefa314159" /> </p>
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **AI Agents**
 
 - 💬 Ask me about **Python, Deep Learning, Machine Learning**
 
 - 📫 How to reach me **sefa.isci@proton.me**
 
-- ⚡ Fun fact **I have 4 budgies :)**
+- ⚡ Fun fact **I have 3 budgies and 2 cats :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
